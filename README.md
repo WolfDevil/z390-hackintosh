@@ -3,6 +3,7 @@ i9 9900KF | RX5700 XT | Z390
 
 **PART LIST:**
 |CPU|Intel i9900KF|
+|-|-|
 |Motherboard|Gigabyte Z390 Aorus master|
 |RAM|Kingston HyperX FURY Black 3200MHz (4x16Gb)|
 |GPU|Gigabyte Radeon RX5700 XT|
