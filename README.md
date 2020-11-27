@@ -1,7 +1,7 @@
 # z390-hackintosh
 i9 9900KF | RX5700 XT | Z390
 
-![Overview window](https://raw.githubusercontent.com/WolfDevil/z390-hackintosh/master/Screenshot%20Overview.png)
+![Overview window](https://raw.githubusercontent.com/WolfDevil/z390-hackintosh/master/Overview.png)
 
 **PART LIST:**
 |CPU|Intel i9900KF|
@@ -14,12 +14,3 @@ i9 9900KF | RX5700 XT | Z390
 |PSU|Corsair RM850|
 |Case|Fractal Design Meshify S2|
 |Cooler|NZXT Kraken X62|
-
-**Kexts:**
-- Lilu
-- WhateverGreen
-- VirtualSMC
-- IntelMausi
-- AppleALC
-
-
